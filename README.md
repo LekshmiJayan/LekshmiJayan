@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lekshmi Jayan</h1>
-<h3 align="center">A detail-oriented Quality Assurance Engineer having deep understanding of Azure cloud services</h3>
+<h3 align="center">A detail-oriented Lead Data Quality Engineer having deep understanding of Azure cloud services</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQG9QjGp5fooYg/feedshare-shrink_2048_1536/0/1675699563601?e=2147483647&v=beta&t=f7Qk-E610CJJoJyS_nycY-zP3fnG0kGEvqRBRRiz5DA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekshmijayan&label=Profile%20views&color=0e75b6&style=flat" alt="lekshmijayan" /> </p>
 
