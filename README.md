@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQG9QjGp5fooYg/feedshare-shrink_2048_1536/0/1675699563601?e=2147483647&v=beta&t=f7Qk-E610CJJoJyS_nycY-zP3fnG0kGEvqRBRRiz5DA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lekshmijayan&label=Profile%20views&color=0e75b6&style=flat" alt="lekshmijayan" /> </p>
 
-- 🔭 I’m currently working on **Azure Data Integration Testing**
+- 🔭 I’m currently working on **Azure Data Testing**
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
