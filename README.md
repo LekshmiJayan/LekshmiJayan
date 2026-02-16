@@ -108,10 +108,6 @@ I don’t build scripts — I build **systems, frameworks, and platforms**.
 
 ---
 
-Because I build **platforms, not scripts**.
-
----
-
 ## 🎯 Mission
 
 To build **intelligent data systems** where:
