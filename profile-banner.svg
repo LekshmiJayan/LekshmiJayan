@@ -6,7 +6,7 @@
       <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
     </linearGradient>
   </defs>
-  <rect width="1200" height="400" fill="url(#grad)" />
+  <rect width="1200" height="250" fill="url(#grad)" />
   <text x="60" y="150" fill="#ffffff" font-size="42" font-family="Arial" font-weight="bold">Lekshmi Jayan</text>
   <text x="60" y="210" fill="#00e5ff" font-size="26" font-family="Arial">AI-Driven Data Quality Engineer | ETL Testing Architect</text>
   <text x="60" y="260" fill="#ffffff" font-size="22" font-family="Arial">Building Intelligent Data Trust Systems</text>
