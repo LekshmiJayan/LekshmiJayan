@@ -1,0 +1,13 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f2027;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#203a43;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5364;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="url(#grad)" />
+  <text x="60" y="150" fill="#ffffff" font-size="42" font-family="Arial" font-weight="bold">Lekshmi</text>
+  <text x="60" y="210" fill="#00e5ff" font-size="26" font-family="Arial">AI-Driven Data Quality Engineer | ETL Testing Architect</text>
+  <text x="60" y="260" fill="#ffffff" font-size="22" font-family="Arial">Building Intelligent Data Trust Systems</text>
+</svg>
