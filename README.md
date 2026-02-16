@@ -3,7 +3,7 @@
   <img src="profile-banner.svg" alt="Lekshmi AI Data Systems Banner" />
 </p>
 
-# 👋 Hi, I’m Lekshmi  
+# 👋 Hi, I’m Lekshmi Jayan
 ### AI-Driven Data Quality Engineer | ETL Testing Architect | Cloud Data & Reliability Specialist  
 **Building Intelligent Data Systems, Not Just Pipelines**
 
