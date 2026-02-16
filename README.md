@@ -1,27 +1,169 @@
-<h1 align="center">Hi 👋, I'm Lekshmi Jayan</h1>
-<h3 align="center">A detail-oriented Lead Data Quality Engineer having deep understanding of Azure cloud services</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQG9QjGp5fooYg/feedshare-shrink_2048_1536/0/1675699563601?e=2147483647&v=beta&t=f7Qk-E610CJJoJyS_nycY-zP3fnG0kGEvqRBRRiz5DA">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lekshmijayan&label=Profile%20views&color=0e75b6&style=flat" alt="lekshmijayan" /> </p>
-
-- 🔭 I’m currently working on **Azure Data Testing**
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 💬 Ask me about **Azure Cloud service, SQL, ETL, Data warehouses, Databases, Datamarts**
-
-- 📫 How to reach me **lekshmijayan73@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lekshmijayan93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lekshmijayan93" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lekshmijayan73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lekshmijayan73" height="30" width="40" /></a>
+<!-- ===================== PROFILE BANNER ===================== -->
+<p align="center">
+  <img src="profile-banner.svg" alt="Lekshmi AI Data Systems Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 👋 Hi, I’m Lekshmi  
+### AI-Driven Data Quality Engineer | ETL Testing Architect | Cloud Data & Reliability Specialist  
+**Building Intelligent Data Systems, Not Just Pipelines**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lekshmijayan&show_icons=true&locale=en&layout=compact" alt="lekshmijayan" /></p>
+![AI](https://img.shields.io/badge/AI-Systems-blueviolet)
+![ML](https://img.shields.io/badge/ML-Models-orange)
+![LLM](https://img.shields.io/badge/LLM-Engineering-green)
+![Cloud](https://img.shields.io/badge/Cloud-Azure-blue)
+![Data](https://img.shields.io/badge/Data-Quality-red)
+![Testing](https://img.shields.io/badge/ETL-Testing-yellow)
+![RAG](https://img.shields.io/badge/RAG-Systems-purple)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lekshmijayan&show_icons=true&locale=en" alt="lekshmijayan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lekshmijayan&" alt="lekshmijayan" /></p>
+## 🧠 About Me
+
+I design **AI-powered data quality platforms**, **intelligent ETL testing frameworks**, and **cloud-native data reliability systems** that transform raw data into **trusted business intelligence**.
+
+My work sits at the intersection of:
+
+> **Data Engineering × AI × Testing × Cloud × Business Value**
+
+I don’t build scripts — I build **systems, frameworks, and platforms**.
+
+---
+
+## 🚀 What I Build
+
+- 🧠 AI-powered Data Quality Engines  
+- 🧪 Intelligent ETL Testing Frameworks  
+- ☁️ Cloud-native Data Reliability Platforms  
+- 🔍 Data Observability & Trust Systems  
+- 📊 Business-driven Data Validation Models  
+- 🧬 ML-based Anomaly Detection Pipelines  
+
+---
+
+## 🧠 Core Domains
+
+### 🔹 Data Engineering & Testing
+- ETL Testing Frameworks  
+- Data Validation Systems  
+- Data Reconciliation Engines  
+- Schema Evolution Handling  
+- Versioned Data Pipelines  
+- ACID-compliant Data Systems  
+- Data Migration & Integration Testing  
+
+### 🔹 AI for Data Systems
+**ML Models**
+- Anomaly Detection  
+- Pattern Recognition  
+- Data Drift Detection  
+- Quality Scoring  
+
+---
+
+## ☁️ Cloud & Tech Stack
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4)
+![ML](https://img.shields.io/badge/Machine%20Learning-102230)
+![LLM](https://img.shields.io/badge/LLM-Intelligence-black)
+
+**Architecture**
+- Modular pipelines  
+- Scalable data platforms  
+- Event-driven systems  
+- Data mesh concepts  
+- Platform engineering mindset  
+
+---
+
+## 🧩 Featured Project Themes
+
+> My GitHub is structured as **solution systems**, not random repos.
+
+### 🧠 AI Data Quality Platform
+- ML-based anomaly detection  
+- Rule-based + AI hybrid validation  
+- Business impact scoring  
+- Auto-alerting systems  
+
+### 🧪 Intelligent ETL Testing Framework
+- Automated data validation  
+- Schema drift detection  
+- Versioning logic  
+- CI/CD integration  
+
+### 📊 Business Data Trust Dashboard
+- Data quality metrics  
+- Data loss detection  
+- Pipeline reliability scoring  
+- Decision-trust indicators  
+
+### 🤖 LLM-powered Data Assistant
+- Natural language → SQL 
+
+---
+
+Because I build **platforms, not scripts**.
+
+---
+
+## 🎯 Mission
+
+To build **intelligent data systems** where:
+- Data is **trusted**  
+- Pipelines are **self-validating**  
+- Testing is **AI-driven**  
+- Quality is **measurable**  
+- Decisions are **reliable**  
+- Business impact is **visible**  
+
+---
+
+## 🧠 Engineering Philosophy
+
+> “If data is the new oil, then data quality is the refinery.”
+
+I believe:
+- Automation > Manual work  
+- Systems > Tools  
+- Architecture > Code  
+- Intelligence > Pipelines  
+- Platforms > Projects  
+- Products > Proof-of-concepts  
+
+---
+
+## 🤝 Collaboration Interests
+
+- AI startups  
+- Data platforms  
+- Cloud-native SaaS  
+- Data observability tools  
+- Testing automation platforms  
+- AI reliability systems  
+- Business intelligence products  
+
+---
+
+## 📊 GitHub Activity
+
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/lekshmijayan93/ 
+- 🌐 Portfolio: Coming soon — AI Data Systems Portfolio  
+- 📧 Email: lekshmijayan73@gmail.com
